@@ -20,6 +20,7 @@ int main  () {
     *x = 4;
     printf ("Contenido de  x  %d\n", *x);
     free(x);
+    
     printf ("Direccion de y  %p\n", y);
     printf ("Contenido de  y  %d\n", *y);
     *y = 5;

@@ -6,7 +6,7 @@
 #define FALSE 0
 
 /*Ejemplo de utilizaciÛn de arrays din·micos*/
-/*programa que pide n˙meros al usuario, tantos como desee el usuario y despuÈs 
+/*programa que pide numeros al usuario, tantos como desee el usuario y despuÈs 
 los muestra en orden inverso al de lectura */
 /*Autor JosÈ Manuel PÈrez Lobato */
 
